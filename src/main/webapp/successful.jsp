@@ -13,5 +13,6 @@
 </head>
 <body>
   <h1>Signup Successful</h1>
+<p>Hello, new member</p>
 </body>
 </html>
